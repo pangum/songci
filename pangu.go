@@ -1,4 +1,4 @@
-package starter
+package songci
 
 import (
 	"github.com/pangum/pangu"
@@ -6,6 +6,6 @@ import (
 
 func init() {
 	pangu.New().Dependencies(
-		newAgent,
+		newSongci,
 	)
 }

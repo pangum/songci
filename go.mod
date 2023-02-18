@@ -2,7 +2,10 @@ module github.com/pangum/starter
 
 go 1.18
 
-require github.com/pangum/pangu v0.1.8
+require (
+	github.com/goexl/songci v0.0.1
+	github.com/pangum/pangu v0.1.8
+)
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
@@ -12,16 +15,16 @@ require (
 	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/go-playground/validator/v10 v10.11.0 // indirect
 	github.com/goexl/baozheng v0.0.1 // indirect
+	github.com/goexl/cryptor v0.0.4 // indirect
 	github.com/goexl/env v0.0.2 // indirect
-	github.com/goexl/exc v0.0.4 // indirect
+	github.com/goexl/exc v0.0.5 // indirect
 	github.com/goexl/gfx v0.1.0 // indirect
-	github.com/goexl/gox v0.0.9 // indirect
+	github.com/goexl/gox v0.2.1 // indirect
 	github.com/goexl/mengpo v0.1.9 // indirect
 	github.com/goexl/simaqian v0.1.3 // indirect
 	github.com/goexl/xiren v0.0.3 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
