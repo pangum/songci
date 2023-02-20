@@ -1,6 +1,6 @@
-module github.com/pangum/starter
+module github.com/pangum/pangum
 
-go 1.18
+go 1.19
 
 require (
 	github.com/goexl/songci v0.0.1
@@ -24,6 +24,7 @@ require (
 	github.com/goexl/simaqian v0.2.3 // indirect
 	github.com/goexl/xiren v0.0.5 // indirect
 	github.com/google/uuid v1.3.0 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/rs/xid v1.4.0 // indirect
