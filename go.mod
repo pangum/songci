@@ -1,4 +1,4 @@
-module github.com/pangum/pangum
+module github.com/pangum/songci
 
 go 1.19
 
